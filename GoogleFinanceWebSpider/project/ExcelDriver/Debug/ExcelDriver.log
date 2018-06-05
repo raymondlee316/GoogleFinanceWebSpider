@@ -1,0 +1,9 @@
+﻿  ExcelDriver.cpp
+d:\出国\nyu\2018spring\financial computing\project\exceldriver\exceldriver\excelimports.cpp(40): fatal error C1083: 无法打开类型库文件: “C:\Program Files\Common Files\Microsoft Shared\office12\mso.dll”: No such file or directory
+  ExcelImports.cpp
+d:\出国\nyu\2018spring\financial computing\project\exceldriver\exceldriver\excelimports.cpp(40): fatal error C1083: 无法打开类型库文件: “C:\Program Files\Common Files\Microsoft Shared\office12\mso.dll”: No such file or directory
+  ExcelMechanisms.cpp
+d:\出国\nyu\2018spring\financial computing\project\exceldriver\exceldriver\excelimports.cpp(40): fatal error C1083: 无法打开类型库文件: “C:\Program Files\Common Files\Microsoft Shared\office12\mso.dll”: No such file or directory
+  TestMatrixExcel.cpp
+d:\出国\nyu\2018spring\financial computing\project\exceldriver\exceldriver\excelimports.cpp(40): fatal error C1083: 无法打开类型库文件: “C:\Program Files\Common Files\Microsoft Shared\office12\mso.dll”: No such file or directory
+  正在生成代码...

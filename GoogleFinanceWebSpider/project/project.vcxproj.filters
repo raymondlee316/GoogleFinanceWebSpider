@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="头文件\ExcelDriver">
+      <UniqueIdentifier>{5247065a-9501-4ee4-a259-20d9834de7e5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\ExcelDriver">
+      <UniqueIdentifier>{63aaf463-c564-461f-bc5a-3d0d3ad5298a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ExcelDriver\ExcelDriver.hpp">
+      <Filter>头文件\ExcelDriver</Filter>
+    </ClInclude>
+    <ClInclude Include="ExcelDriver\ExcelMechanisms.hpp">
+      <Filter>头文件\ExcelDriver</Filter>
+    </ClInclude>
+    <ClInclude Include="ExcelDriver\VectorsAndMatrices\Matrix.hpp">
+      <Filter>头文件\ExcelDriver</Filter>
+    </ClInclude>
+    <ClInclude Include="ExcelDriver\VectorsAndMatrices\Vector.hpp">
+      <Filter>头文件\ExcelDriver</Filter>
+    </ClInclude>
+    <ClInclude Include="ExcelDriver\BitsAndPieces\StringConversions.hpp">
+      <Filter>头文件\ExcelDriver</Filter>
+    </ClInclude>
+    <ClInclude Include="stock.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ExcelDriver\ExceptionClasses\DatasimException.hpp">
+      <Filter>头文件\ExcelDriver</Filter>
+    </ClInclude>
+    <ClInclude Include="..\libcurl\include\curl\curl.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ExcelDriver\ExcelDriver.cpp">
+      <Filter>源文件\ExcelDriver</Filter>
+    </ClCompile>
+    <ClCompile Include="ExcelDriver\ExcelImports.cpp">
+      <Filter>源文件\ExcelDriver</Filter>
+    </ClCompile>
+    <ClCompile Include="ExcelDriver\ExcelMechanisms.cpp">
+      <Filter>源文件\ExcelDriver</Filter>
+    </ClCompile>
+    <ClCompile Include="ExcelDriver\BitsAndPieces\StringConversions.cpp">
+      <Filter>源文件\ExcelDriver</Filter>
+    </ClCompile>
+    <ClCompile Include="ExcelDriver\ExceptionClasses\DatasimException.cpp">
+      <Filter>源文件\ExcelDriver</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stock.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

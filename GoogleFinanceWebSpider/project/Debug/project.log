@@ -1,0 +1,18 @@
+﻿  stdafx.cpp
+  StringConversions.cpp
+  ExcelDriver.cpp
+c:\raymond\nyu tandon\internship\project\project\exceldriver\excelimports.cpp(47): warning C4192: automatically excluding 'IFont' while importing type library 'C:\Program Files\Microsoft Office\root\Office16\excel.exe'
+c:\raymond\nyu tandon\internship\project\project\exceldriver\excelimports.cpp(47): warning C4192: automatically excluding 'IPicture' while importing type library 'C:\Program Files\Microsoft Office\root\Office16\excel.exe'
+  ExcelImports.cpp
+  ExcelMechanisms.cpp
+  DatasimException.cpp
+  main.cpp
+c:\raymond\nyu tandon\internship\project\project\main.cpp(105): warning C4474: 'sscanf_s' : too many arguments passed for format string
+  c:\raymond\nyu tandon\internship\project\project\main.cpp(105): note: placeholders and their parameters expect 6 variadic arguments, but 8 were provided
+c:\raymond\nyu tandon\internship\project\project\main.cpp(142): warning C4101: 'fp': unreferenced local variable
+c:\raymond\nyu tandon\internship\project\project\main.cpp(267): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\raymond\nyu tandon\internship\project\project\main.cpp(268): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\raymond\nyu tandon\internship\project\project\main.cpp(292): warning C4018: '<': signed/unsigned mismatch
+  stock.cpp
+  Generating Code...
+  project.vcxproj -> C:\raymond\NYU Tandon\Internship\project\Debug\project.exe
