@@ -1,9 +1,9 @@
-﻿// Created by Microsoft (R) C/C++ Compiler Version 14.13.26131.1 (6725afc0).
+﻿// Created by Microsoft (R) C/C++ Compiler Version 14.13.26131.1 (b0586c84).
 //
-// c:\raymond\nyu tandon\internship\project\project\debug\vbe6ext.tlh
+// c:\raymond\nyu tandon\internship\googlefinancewebspider\googlefinancewebspider\project\debug\vbe6ext.tlh
 //
 // C++ source equivalent of Win32 type library C:\Program Files\Microsoft Office\root\vfs\ProgramFilesCommonX86\Microsoft Shared\VBA\VBA6\vbe6ext.olb
-// compiler-generated file created 06/05/18 at 12:02:19 - DO NOT EDIT!
+// compiler-generated file created 06/05/18 at 12:06:35 - DO NOT EDIT!
 
 //
 // Cross-referenced type libraries:
@@ -2049,7 +2049,7 @@ _References : IDispatch
 // Wrapper method implementations
 //
 
-#include "c:\raymond\nyu tandon\internship\project\project\debug\vbe6ext.tli"
+#include "c:\raymond\nyu tandon\internship\googlefinancewebspider\googlefinancewebspider\project\debug\vbe6ext.tli"
 
 } // namespace VBIDE
 

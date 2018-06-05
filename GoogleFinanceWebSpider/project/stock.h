@@ -4,6 +4,8 @@
 #include<string>
 
 using namespace std;
+
+
 class stock {
 public:
 	vector<string> timestamp;
@@ -35,3 +37,4 @@ public:
 
 
 };
+

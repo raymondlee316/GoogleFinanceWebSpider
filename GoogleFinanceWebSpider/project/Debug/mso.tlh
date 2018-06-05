@@ -1,9 +1,9 @@
-﻿// Created by Microsoft (R) C/C++ Compiler Version 14.13.26131.1 (ef1068b0).
+﻿// Created by Microsoft (R) C/C++ Compiler Version 14.13.26131.1 (f4006f0b).
 //
-// c:\raymond\nyu tandon\internship\project\project\debug\mso.tlh
+// c:\raymond\nyu tandon\internship\googlefinancewebspider\googlefinancewebspider\project\debug\mso.tlh
 //
 // C++ source equivalent of Win32 type library C:\Program Files\Microsoft Office\root\vfs\ProgramFilesCommonX86\Microsoft Shared\OFFICE16\mso.dll
-// compiler-generated file created 06/05/18 at 12:02:19 - DO NOT EDIT!
+// compiler-generated file created 06/05/18 at 12:06:35 - DO NOT EDIT!
 
 #pragma once
 #pragma pack(push, 8)
@@ -26612,7 +26612,7 @@ SmartArtNode : _IMsoDispObj
 // Function implementation mapping
 //
 
-#pragma start_map_region("c:\raymond\nyu tandon\internship\project\project\debug\mso.tli")
+#pragma start_map_region("c:\raymond\nyu tandon\internship\googlefinancewebspider\googlefinancewebspider\project\debug\mso.tli")
 __declspec(implementation_key(1)) IDispatchPtr IAccessible::GetaccParent ( );
 __declspec(implementation_key(2)) long IAccessible::GetaccChildCount ( );
 __declspec(implementation_key(3)) IDispatchPtr IAccessible::GetaccChild ( const _variant_t & varChild );

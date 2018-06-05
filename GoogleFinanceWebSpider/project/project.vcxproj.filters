@@ -51,6 +51,9 @@
     <ClInclude Include="..\libcurl\include\curl\curl.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="DownloadData.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -71,10 +74,16 @@
     <ClCompile Include="ExcelDriver\ExceptionClasses\DatasimException.cpp">
       <Filter>源文件\ExcelDriver</Filter>
     </ClCompile>
-    <ClCompile Include="main.cpp">
+    <ClCompile Include="stock.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="stock.cpp">
+    <ClCompile Include="VaR.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DownloadData.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Main.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
